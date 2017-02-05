@@ -16,8 +16,6 @@ func Test_main(t *testing.T) {
 		{"Solve", 1},
 		{"Solve", 2},
 		{"Solve", 3},
-		{"Solve", 4},
-		{"Solve", 5},
 		{"Space", 0},
 		{"Space", 1},
 		{"Space", 2},
